@@ -1,8 +1,8 @@
 <section>
-  <h2>Sobre</h2>
+  <h2></h2>
 </section>
 <section>
-  <h2>Portfolio</h2>
+  <h2></h2>
   <a href="" target="_blank"></a>
   <br>
  
