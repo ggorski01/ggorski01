@@ -20,7 +20,7 @@
 <section>
   <h2></h2>
   <p></p>
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/giovanna-gorski/">
     <img title="Linkedin" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </section>
