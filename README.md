@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </section>
 <section>
-  <h2>Contato</h2>
+  <h2></h2>
   <p></p>
   <a href="mailto:?subject=Contato&body=%20%0D%20%0DContato%20do%20GitHub">
     <img title="ProtonMail" alt="ProtonMail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
@@ -28,6 +28,6 @@
   </a>
 </section>
 <section>
-  <h2>Estatísticas</h2>
+  <h2></h2>
   <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggorski&layout=compact&langs_count=4&theme=light" />
 </section>
