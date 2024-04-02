@@ -8,15 +8,15 @@
  
 </section>
 <section>
-  <h2></h2>
+  <h2>Tech skills</h2>
   <p></p>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <br>
-  <h4></h4>
+  <h4>Cloud</h4>
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </section>
 <section>
-  <h2></h2>
+  <h2>Social</h2>
   <p></p>
   <a href="https://www.linkedin.com/in/giovanna-gorski/">
     <img title="Linkedin" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
