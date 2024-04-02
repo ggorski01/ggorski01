@@ -20,9 +20,6 @@
 <section>
   <h2></h2>
   <p></p>
-  <a href="mailto:?subject=Contato&body=%20%0D%20%0DContato%20do%20GitHub">
-    <img title="ProtonMail" alt="ProtonMail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
-  </a>
   <a href="https://www.linkedin.com/in/">
     <img title="Linkedin" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
