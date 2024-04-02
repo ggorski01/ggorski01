@@ -29,5 +29,5 @@
 </section>
 <section>
   <h2></h2>
-  <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggorski&layout=compact&langs_count=4&theme=light" />
+  <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggorski01&layout=compact&langs_count=4&theme=light" />
 </section>
