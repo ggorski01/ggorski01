@@ -26,7 +26,10 @@
   <h2>Social</h2>
   <p></p>
   <a href="https://www.linkedin.com/in/giovanna-gorski/">
-    <img title="Linkedin" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img title="Linkedin" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://cs.iusb.edu/~ggorski/">
+    <img title="IUSB - LSAMP" alt="IUSB" src="https://img.shields.io/badge/IUSB LSAMP-B22222?style=for-the-badge"/>
   </a>
 </section>
 <section>
